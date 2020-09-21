@@ -1,0 +1,18 @@
+.dueteranope {
+  --accent-color: #4483f4;
+  --background-color: #a8931e;
+  --text-color: white;
+  --button-text-color: #a8931e;
+}
+.protanope {
+  --accent-color: #4e86f5;
+  --background-color: #786624;
+  --text-color: white;
+  --button-text-color: #786624;
+}
+.tritanerope {
+  --accent-color: #fc9fb2;
+  --background-color: #fddce5;
+  --text-color: white;
+  --button-text-color: #fddce5;
+}
